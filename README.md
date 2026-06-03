@@ -1,3 +1,4 @@
+ominiSKill迁移至https://gitcode.com/boostkit/skills作为子目录，本仓后续归档。
 # OmniSkill
 
 OmniSkill 是一套面向 OmniOperator 向量化执行引擎的 AI 辅助技能集合，涵盖表达式/算子生态分析与表达式开发流程。
